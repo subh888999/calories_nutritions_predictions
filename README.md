@@ -1,5 +1,5 @@
 
-# 🍽️ Smart Calories & Nutrition Prediction
+# 🍽️ Calories & Nutrition Prediction
 
 This project is a data-driven, interactive web application that provides personalized nutrition and caloric recommendations. Built using **Streamlit** and **Machine Learning**, it helps users align their dietary intake with their fitness goals like weight loss, muscle gain, or maintenance.
 
