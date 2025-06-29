@@ -89,4 +89,6 @@ Feel free to fork, modify, or deploy this for personal or academic use.
 ## 📄 License
 
 This project is open source under the [MIT License](LICENSE).
+🚀 **Live Demo:** [Try the App on Hugging Face](https://huggingface.co/spaces/Subh777/Smart_calories_nutritions_prediction)
+
 
